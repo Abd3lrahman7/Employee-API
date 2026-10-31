@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\datasimulation\\employeedatasimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:datasimulation\\employeedatasimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\dtos\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:dtos\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\dtos\\auth\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:dtos\\auth\\logoutrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\dtos\\auth\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:dtos\\auth\\refreshrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\authorization\\employeeowneroradminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:authorization\\employeeowneroradminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\authorization\\employeeowneroradminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:authorization\\employeeowneroradminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|e:\\programming\\c#\\employee api project\\employee api server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|EmployeeApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogoutRequest.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\DTOs\\Auth\\LogoutRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\LogoutRequest.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\DTOs\\Auth\\LogoutRequest.cs",
+              "RelativeToolTip": "DTOs\\Auth\\LogoutRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:41:28.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RefreshRequest.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\DTOs\\Auth\\RefreshRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\RefreshRequest.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\DTOs\\Auth\\RefreshRequest.cs",
+              "RelativeToolTip": "DTOs\\Auth\\RefreshRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:41:04.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\DTOs\\Auth\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\Auth\\TokenResponse.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\DTOs\\Auth\\TokenResponse.cs",
+              "RelativeToolTip": "DTOs\\Auth\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:40:42.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeOwnerOrAdminHandler.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Authorization\\EmployeeOwnerOrAdminHandler.cs",
+              "RelativeDocumentMoniker": "Authorization\\EmployeeOwnerOrAdminHandler.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Authorization\\EmployeeOwnerOrAdminHandler.cs",
+              "RelativeToolTip": "Authorization\\EmployeeOwnerOrAdminHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T20:34:05.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeOwnerOrAdminRequirement.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Authorization\\EmployeeOwnerOrAdminRequirement.cs",
+              "RelativeDocumentMoniker": "Authorization\\EmployeeOwnerOrAdminRequirement.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Authorization\\EmployeeOwnerOrAdminRequirement.cs",
+              "RelativeToolTip": "Authorization\\EmployeeOwnerOrAdminRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T20:33:51.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Model\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Model\\LoginRequest.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Model\\LoginRequest.cs",
+              "RelativeToolTip": "Model\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T18:34:41.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T18:30:45.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T13:12:53.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAIwNoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:48:01.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDataSimulation.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\DataSimulation\\EmployeeDataSimulation.cs",
+              "RelativeDocumentMoniker": "DataSimulation\\EmployeeDataSimulation.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\DataSimulation\\EmployeeDataSimulation.cs",
+              "RelativeToolTip": "DataSimulation\\EmployeeDataSimulation.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:28:22.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Model\\Employee.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Model\\Employee.cs",
+              "RelativeToolTip": "Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:28:17.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeAPIController.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Controllers\\EmployeeAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeAPIController.cs",
+              "ToolTip": "E:\\Programming\\C#\\Employee API Project\\Employee API Server\\Controllers\\EmployeeAPIController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:18:47.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

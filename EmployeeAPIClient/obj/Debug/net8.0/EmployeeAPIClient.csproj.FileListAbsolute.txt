@@ -1,0 +1,14 @@
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\obj\Debug\net8.0\EmployeeAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\obj\Debug\net8.0\EmployeeAPIClient.AssemblyInfoInputs.cache
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\obj\Debug\net8.0\EmployeeAPIClient.AssemblyInfo.cs
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\obj\Debug\net8.0\EmployeeAPIClient.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\bin\Debug\net8.0\EmployeeAPIClient.exe
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\bin\Debug\net8.0\EmployeeAPIClient.deps.json
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\bin\Debug\net8.0\EmployeeAPIClient.runtimeconfig.json
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\bin\Debug\net8.0\EmployeeAPIClient.dll
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\bin\Debug\net8.0\EmployeeAPIClient.pdb
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\obj\Debug\net8.0\EmployeeAPIClient.dll
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\obj\Debug\net8.0\refint\EmployeeAPIClient.dll
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\obj\Debug\net8.0\EmployeeAPIClient.pdb
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\obj\Debug\net8.0\EmployeeAPIClient.genruntimeconfig.cache
+E:\Programming\C#\Employee API Project\EmployeeAPIClient\obj\Debug\net8.0\ref\EmployeeAPIClient.dll
